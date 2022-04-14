@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T07:47:37.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dKP49Z9qc3_Jg8iD9F9S" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T07:50:28.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ZoWs0t9SkWdv5nHIw95h" version="17.4.3" type="github">
   <diagram id="TMgxbQlVMmeY9P32GQ1a" name="Page-1">
-    <mxGraphModel dx="940" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="986" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,8 +152,8 @@
         <mxCell id="qtKlCRNCfXGgiiKGvy_T-1" value="阿里私有化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="740" y="220" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qtKlCRNCfXGgiiKGvy_T-2" value="自研成本：&lt;br&gt;1.Hadoop生态的基础运维&lt;br&gt;2.云窗的替代品，&lt;font color=&quot;#ff0000&quot;&gt;有开源的HUE，但功能远远不够，可考虑58私有化&lt;/font&gt;&lt;br&gt;3.调度平台的私有化，&lt;font color=&quot;#ff0000&quot;&gt;有zzdp，但功能需要完善，可考虑58私有化&lt;/font&gt;&lt;br&gt;4.星火的替代品，QuickBI能够替代（已支持自助建表），先基于Hive查询结果建MySQL表，再在QuickBI配置相应数据集，&lt;font color=&quot;#ff0000&quot;&gt;不如星火省事，且有一定的建表成本&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="730" width="1140" height="100" as="geometry" />
+        <mxCell id="qtKlCRNCfXGgiiKGvy_T-2" value="自研成本：&lt;br&gt;1.Hadoop生态的基础运维&lt;br&gt;2.云窗的替代品，&lt;font color=&quot;#ff0000&quot;&gt;有开源的HUE，但功能远远不够，可考虑58私有化&lt;/font&gt;&lt;br&gt;3.调度平台的私有化，&lt;font color=&quot;#ff0000&quot;&gt;有zzdp，但功能需要完善，可考虑58私有化&lt;/font&gt;&lt;br&gt;4.星火的替代品，QuickBI能够替代（已支持自助建表），先基于Hive查询结果自助建MySQL表，再在QuickBI配置相应数据集，&lt;font color=&quot;#ff0000&quot;&gt;不如星火省事，且有一定的建表成本&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="280" y="730" width="1170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qtKlCRNCfXGgiiKGvy_T-3" value="可视化报表（离线），面向老板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="970" y="180" width="240" height="20" as="geometry" />
