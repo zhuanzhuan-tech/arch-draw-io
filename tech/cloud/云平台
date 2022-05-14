@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T12:06:18.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LrZ0u1UHeKqUwt5a1ui7" version="18.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-14T12:14:39.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="zXZ5FpsqVDYMq2zO1J-I" version="18.0.2" type="github" pages="10">
   <diagram id="pUQ9wLoKWB_OsQwv2orM" name="Page-1">
     <mxGraphModel dx="1350" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1049,6 +1049,32 @@
         </mxCell>
         <mxCell id="rp13YtoxLAmMpTu9MfDW-26" value="Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CJipPijGQuj8xDfLOmGh" name="内存">
+    <mxGraphModel dx="1350" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="koJmmAOF5h56aCeEWCjW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="koJmmAOF5h56aCeEWCjW-2" value="Xmx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="koJmmAOF5h56aCeEWCjW-3" value="Metaspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="koJmmAOF5h56aCeEWCjW-5" value="直接内存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="koJmmAOF5h56aCeEWCjW-6" value="Docker内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="koJmmAOF5h56aCeEWCjW-7" value="JVM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242" y="308" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
