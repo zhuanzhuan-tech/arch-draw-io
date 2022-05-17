@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T12:46:46.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="om2fnMg2kznWGdQUgNcp" version="18.0.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-17T13:31:13.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Ir-i-ixWTfiQmFXVvyVo" version="18.0.4" type="github" pages="10">
   <diagram id="pUQ9wLoKWB_OsQwv2orM" name="Page-1">
-    <mxGraphModel dx="1027" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IVh36s4iIkfnDL2Ku3wg" name="NG治理">
-    <mxGraphModel dx="1027" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CtuOH-KJPSUH2kWrVAEU" name="云平台架构">
-    <mxGraphModel dx="1027" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Slwvwn5rFc2Pzyi7RM9M" name="监控">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,11 +429,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UkJROEbxjW1VE9vJDmtT" name="交互图">
-    <mxGraphModel dx="1854" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cN1zQPeBL6YHt-mlssuC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="cN1zQPeBL6YHt-mlssuC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-90" y="140" width="890" height="250" as="geometry" />
         </mxCell>
         <mxCell id="4yZhT1OFyU5Gjh5FrGKD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -667,7 +667,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kSpEeFlaAX2ow3eDVJAC" name="镜像管理">
-    <mxGraphModel dx="1350" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,7 +758,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9G8DAOZmM1g7NtqJ-6pq" name="日志管理">
-    <mxGraphModel dx="1350" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -818,6 +818,9 @@
         </mxCell>
         <mxCell id="HPEahC9EEA40O10yIkpt-18" value="挂载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HPEahC9EEA40O10yIkpt-19" vertex="1">
           <mxGeometry x="104" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vWwDjifAnHq3QW7eVU26-1" value="Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HPEahC9EEA40O10yIkpt-19">
+          <mxGeometry x="-10" y="-7" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yHNfxUBF8tTrxXUREdEV-3" value="日志查询平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="360" y="525" width="81" height="60" as="geometry" />
@@ -938,6 +941,9 @@
         </mxCell>
         <mxCell id="HPEahC9EEA40O10yIkpt-35" value="挂载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HPEahC9EEA40O10yIkpt-20" vertex="1">
           <mxGeometry x="104" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vWwDjifAnHq3QW7eVU26-2" value="Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HPEahC9EEA40O10yIkpt-20">
+          <mxGeometry x="-10" y="-7" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HPEahC9EEA40O10yIkpt-3" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF3333;entryX=0.4;entryY=0.9;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=0;" parent="1" source="yHNfxUBF8tTrxXUREdEV-3" target="HPEahC9EEA40O10yIkpt-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
