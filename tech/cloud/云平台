@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T02:56:34.086Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Hc7_MUtypfA5h1M7Q-Wj" version="21.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-12T03:02:25.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GKP8BFlGXovGvPfHuhDm" version="21.3.5" type="github" pages="14">
   <diagram id="pUQ9wLoKWB_OsQwv2orM" name="Page-1">
     <mxGraphModel dx="1391" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1493,7 +1493,7 @@
         <mxCell id="dyYo-JWHWo9dXgPRHkKd-18" value="业务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="203" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="dyYo-JWHWo9dXgPRHkKd-20" value="链接池" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dyYo-JWHWo9dXgPRHkKd-20" value="连接池" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="203" height="270" as="geometry" />
         </mxCell>
         <mxCell id="dyYo-JWHWo9dXgPRHkKd-21" value="driver" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;glass=0;rounded=0;" vertex="1" parent="1">
