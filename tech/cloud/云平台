@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T10:14:08.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GlHiKDBY4hDgtAeCxwk8" version="22.1.11" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-12-19T10:53:43.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8xfnxSlo7j92dilBono2" version="22.1.11" type="github" pages="17">
   <diagram id="IVh36s4iIkfnDL2Ku3wg" name="NG治理">
     <mxGraphModel dx="1391" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1822,14 +1822,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JwwDm31JoTA4mYfk6V8V" name="第 16 页">
-    <mxGraphModel dx="1391" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S-gAWfI0xiLgA4buCUcQ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="270" width="450" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="Um4ve3QwW69MxjJSrTlT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="40" width="370" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="dXynleoa1apew4NPPB4u-1" value="QA录制平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dXynleoa1apew4NPPB4u-1" value="QA录制平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dXynleoa1apew4NPPB4u-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dXynleoa1apew4NPPB4u-1" target="dXynleoa1apew4NPPB4u-3">
@@ -1940,8 +1943,14 @@
         <mxCell id="Um4ve3QwW69MxjJSrTlT-13" value="架构底层支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="50" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S-gAWfI0xiLgA4buCUcQ-1" value="获取流量参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="S-gAWfI0xiLgA4buCUcQ-1" value="录制/获取流量参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="130" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gAWfI0xiLgA4buCUcQ-3" value="获取流量参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="238" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gAWfI0xiLgA4buCUcQ-4" value="应用方" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="265" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
