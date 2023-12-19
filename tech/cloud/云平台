@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T11:41:16.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_ngcJWIK_hgCtm47D6aa" version="22.1.11" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-12-19T11:43:49.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WxDQpRd_RTEznwJ-CV49" version="22.1.11" type="github" pages="17">
   <diagram id="IVh36s4iIkfnDL2Ku3wg" name="NG治理">
     <mxGraphModel dx="1391" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1830,48 +1830,48 @@
           <mxGeometry x="-60" y="28" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dXynleoa1apew4NPPB4u-1" value="QA录制平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="230" y="144" width="120" height="50" as="geometry" />
+          <mxGeometry x="230" y="131" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dXynleoa1apew4NPPB4u-5" value="测试平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dXynleoa1apew4NPPB4u-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dXynleoa1apew4NPPB4u-5" target="dXynleoa1apew4NPPB4u-1">
+        <mxCell id="dXynleoa1apew4NPPB4u-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="140" as="sourcePoint" />
-            <mxPoint x="210" y="170" as="targetPoint" />
+            <mxPoint x="80" y="94" as="sourcePoint" />
+            <mxPoint x="230" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dXynleoa1apew4NPPB4u-8" value="压测平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="129" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dXynleoa1apew4NPPB4u-9" value="case平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="196" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dXynleoa1apew4NPPB4u-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dXynleoa1apew4NPPB4u-8">
+        <mxCell id="dXynleoa1apew4NPPB4u-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="180" as="sourcePoint" />
-            <mxPoint x="230" y="165" as="targetPoint" />
+            <mxPoint x="80" y="159" as="sourcePoint" />
+            <mxPoint x="230" y="159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXynleoa1apew4NPPB4u-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dXynleoa1apew4NPPB4u-9">
+        <mxCell id="dXynleoa1apew4NPPB4u-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="250" as="sourcePoint" />
-            <mxPoint x="230" y="165" as="targetPoint" />
+            <mxPoint x="80" y="228" as="sourcePoint" />
+            <mxPoint x="230" y="163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gAWfI0xiLgA4buCUcQ-1" value="录制/获取流量参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="135" as="geometry">
+          <mxGeometry x="130" y="132" as="geometry">
             <mxPoint x="12" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gAWfI0xiLgA4buCUcQ-4" value="应用方" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="35" width="110" height="30" as="geometry" />
+          <mxGeometry x="-70" y="33" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S-gAWfI0xiLgA4buCUcQ-5" value="录制/获取流量参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="169" as="geometry" />
+          <mxGeometry x="140" y="160" as="geometry" />
         </mxCell>
         <mxCell id="S-gAWfI0xiLgA4buCUcQ-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="420" y="33" width="370" height="350" as="geometry" />
+          <mxGeometry x="420" y="21" width="370" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Um4ve3QwW69MxjJSrTlT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S-gAWfI0xiLgA4buCUcQ-6">
           <mxGeometry width="370" height="350" as="geometry" />
@@ -1948,7 +1948,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gAWfI0xiLgA4buCUcQ-7" value="录制/获取流量参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="224" as="geometry">
+          <mxGeometry x="129" y="207" as="geometry">
             <mxPoint x="12" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
