@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T09:20:29.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iPGyiHWEAOTwCKfGlo9R" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T09:42:07.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GPRNulYQkA2uU0MlWWJ5" version="22.1.11" type="github">
   <diagram name="第 1 页" id="JaP6gS5p290uwAghJeMR">
     <mxGraphModel dx="1958" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,10 @@
             <mxPoint x="580" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nhRshaUIcC__ubF3JVPI-21" value="正常请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="834" width="70" height="30" as="geometry" />
+        <mxCell id="nhRshaUIcC__ubF3JVPI-58" value="正常请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nhRshaUIcC__ubF3JVPI-20">
+          <mxGeometry x="-0.0286" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nhRshaUIcC__ubF3JVPI-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -230,6 +232,17 @@
         </mxCell>
         <mxCell id="nhRshaUIcC__ubF3JVPI-56" value="解封" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nhRshaUIcC__ubF3JVPI-55">
           <mxGeometry x="0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhRshaUIcC__ubF3JVPI-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1560" as="sourcePoint" />
+            <mxPoint x="580" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhRshaUIcC__ubF3JVPI-60" value="重试请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nhRshaUIcC__ubF3JVPI-59">
+          <mxGeometry x="-0.0286" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
