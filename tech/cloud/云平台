@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T03:20:28.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_Be_QmsApYv0fOQESzPY" version="22.1.11" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-19T03:27:55.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZHcFeorYlH13-groYdhf" version="22.1.11" type="github" pages="14">
   <diagram id="IVh36s4iIkfnDL2Ku3wg" name="NG治理">
     <mxGraphModel dx="1391" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1571,6 +1571,30 @@
           <mxGeometry x="480" y="340" as="geometry">
             <mxPoint x="-4" y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-18" value="发布系统" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-20" value="1.新增部署录制节点能力&lt;br&gt;&lt;br&gt;2.节点展示增加录制标识&lt;br&gt;&lt;br&gt;3.版本控制时需要考虑录制节点是否升级&lt;br&gt;&lt;br&gt;4.发布记录对repeater部署做标识" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="aS4he67m3iCmaMFcRezQ-18">
+          <mxGeometry y="30" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-22" value="云平台" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-24" value="&lt;br&gt;1.新增部署录制节点能力&lt;br&gt;&lt;br&gt;2.列表增加录制标识&lt;br&gt;&lt;br&gt;3.发布时对录制节点同步升级" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="aS4he67m3iCmaMFcRezQ-22">
+          <mxGeometry y="30" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-25" value="repeater" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-26" value="&lt;br&gt;1.线上录制时增加部署录制节点逻辑&lt;br&gt;&lt;br&gt;2.线上录制选择逻辑改为使用录制节点&lt;br&gt;&lt;br&gt;3.开启录制、暂停录制，更换IP发送MQ通知录制平台" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="aS4he67m3iCmaMFcRezQ-25">
+          <mxGeometry y="30" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-27" value="录制平台" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4he67m3iCmaMFcRezQ-28" value="&lt;br&gt;1.接收MQ对业务做提示等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="aS4he67m3iCmaMFcRezQ-27">
+          <mxGeometry y="30" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
