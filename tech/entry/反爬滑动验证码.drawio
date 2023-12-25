@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T02:16:43.955Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tSVbX5mhTJOBzYzHjBmC" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T12:18:10.839Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4Hh4FSQnh6fC4hUEV6t1" version="22.1.11" type="github">
   <diagram name="第 1 页" id="JaP6gS5p290uwAghJeMR">
-    <mxGraphModel dx="2818" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
             <mxPoint x="20" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nhRshaUIcC__ubF3JVPI-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontStyle=1;fontSize=16;" parent="1" edge="1">
+        <mxCell id="nhRshaUIcC__ubF3JVPI-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontStyle=1;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="960" as="sourcePoint" />
             <mxPoint x="860" y="960" as="targetPoint" />
@@ -100,7 +100,7 @@
         <mxCell id="nhRshaUIcC__ubF3JVPI-34" value="返回sessionId及配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="904" y="1020" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhRshaUIcC__ubF3JVPI-35" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontStyle=1;fontSize=16;" parent="1" edge="1">
+        <mxCell id="nhRshaUIcC__ubF3JVPI-35" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontStyle=1;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="1083" as="sourcePoint" />
             <mxPoint x="300" y="1080" as="targetPoint" />
@@ -115,7 +115,7 @@
         <mxCell id="nhRshaUIcC__ubF3JVPI-36" value="返回sessionId及配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="489" y="1060" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhRshaUIcC__ubF3JVPI-38" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontStyle=1;fontSize=16;" parent="1" edge="1">
+        <mxCell id="nhRshaUIcC__ubF3JVPI-38" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontStyle=1;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="1123" as="sourcePoint" />
             <mxPoint x="20" y="1123" as="targetPoint" />
@@ -213,7 +213,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_oV3AFpQVXrMa7tLMM3k-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontStyle=1;fontSize=16;" parent="1" edge="1">
+        <mxCell id="_oV3AFpQVXrMa7tLMM3k-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontStyle=1;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="1320" as="sourcePoint" />
             <mxPoint x="300" y="1320" as="targetPoint" />
