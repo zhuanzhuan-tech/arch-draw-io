@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-01T06:07:48.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="owKyKJ8E6FhlN8yjQhSI" version="24.5.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-08-01T08:21:10.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_TskvBosS4vp1dAKJhdl" version="24.5.5" type="github" pages="5">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2225" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -463,8 +463,8 @@
             <mxPoint x="-4" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_GObdIka3DAVkYoXfsyE-40" value="1.用例统计？&lt;div&gt;2.回放顺序？&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="80" height="100" as="geometry" />
+        <mxCell id="_GObdIka3DAVkYoXfsyE-40" value="1.用例统计(MQ)&lt;div&gt;2.回放顺序？&lt;/div&gt;&lt;div&gt;3.上线节奏分3批&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 5、1,4、2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;排期：&lt;/div&gt;&lt;div&gt;5、6：8.9-8.11&lt;/div&gt;&lt;div&gt;1.4：8.12-8.19&lt;/div&gt;&lt;div&gt;2：8.20-8.27&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="140" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
