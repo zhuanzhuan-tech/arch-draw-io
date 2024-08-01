@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-01T03:07:48.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pknfQu1_Xbf0DBJr4-6p" version="24.5.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-08-01T06:07:48.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="owKyKJ8E6FhlN8yjQhSI" version="24.5.5" type="github" pages="5">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2225" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -462,6 +462,9 @@
           <mxGeometry x="525" y="410" as="geometry">
             <mxPoint x="-4" y="8" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_GObdIka3DAVkYoXfsyE-40" value="1.用例统计？&lt;div&gt;2.回放顺序？&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
