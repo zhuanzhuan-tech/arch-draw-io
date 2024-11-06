@@ -2457,7 +2457,7 @@
         <mxCell id="UbmkWZQyN7-1BrsG9T1L-14" value="tke4&lt;br&gt;(500)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="905" y="220" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UbmkWZQyN7-1BrsG9T1L-15" value="灾备机房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UbmkWZQyN7-1BrsG9T1L-15" value="火山云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UbmkWZQyN7-1BrsG9T1L-16" value="containerd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
