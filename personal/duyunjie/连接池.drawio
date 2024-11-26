@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="第 1 页" id="JmAHMn3rujhHnV1lBThX">
-    <mxGraphModel dx="939" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,8 +108,8 @@
             <mxPoint x="356.5" y="704" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PA8RiOm6JGbZ_3bK-6OF-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;maxIdle&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="252" y="764" width="70" height="30" as="geometry" />
+        <mxCell id="PA8RiOm6JGbZ_3bK-6OF-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;maxActive&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="237" y="764" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PA8RiOm6JGbZ_3bK-6OF-43" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PA8RiOm6JGbZ_3bK-6OF-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -117,8 +117,8 @@
             <mxPoint x="360" y="784" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PA8RiOm6JGbZ_3bK-6OF-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;minIdle=5,maxActive=10。连接池采用LRU栈式策略&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;此时池里有7个空闲连接，PoolingCount=7，checkCount=PoolingCount-minIdle=2&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="90" y="820" width="590" height="50" as="geometry" />
+        <mxCell id="PA8RiOm6JGbZ_3bK-6OF-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;minIdle=5,maxActive=10。连接池采用LRU栈式置换策略&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;此时池里有7个空闲连接，PoolingCount=7，checkCount=PoolingCount-minIdle=2&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;checkCount是空闲检测的重点对象，如果空闲超进&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;b&gt;minEvictableIdleTimeMillis会被销毁&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="75" y="810" width="620" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
