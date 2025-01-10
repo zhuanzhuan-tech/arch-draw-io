@@ -2590,6 +2590,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="59EWpM82GYRCt2MypR3q-115" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;升级说明&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;背景：&lt;/div&gt;&lt;div&gt;主机房k8s1容量到达瓶颈，500宿主机以使用496&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目标：&lt;/div&gt;&lt;div&gt;主机房可以动态增加k8s，同时增加火山云（备2）以备腾讯云整体故障&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;特点：&lt;br&gt;&lt;div&gt;横向灾备，纵向扩容&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1.灾备升级：机房由一主一备升级为一主二备&lt;/div&gt;&lt;div&gt;2.容量升级：管理k8s个数由二个升级为四个&lt;/div&gt;&lt;div&gt;3.自由组合：四个k8s随意放在三个机房&lt;/div&gt;&lt;div&gt;4.常态运行：二个k8s运行在主，一个备1，一个备2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="290" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
