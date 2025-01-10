@@ -2510,7 +2510,7 @@
         <mxCell id="59EWpM82GYRCt2MypR3q-89" value="containerd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="767" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="59EWpM82GYRCt2MypR3q-90" value="腾讯云-天津武清（主）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="59EWpM82GYRCt2MypR3q-90" value="腾讯云-北京（备1）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="702.5" y="496" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="59EWpM82GYRCt2MypR3q-91" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;" vertex="1" parent="1">
@@ -2534,7 +2534,7 @@
         <mxCell id="59EWpM82GYRCt2MypR3q-97" value="containerd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1012.5" y="767" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="59EWpM82GYRCt2MypR3q-98" value="腾讯云-天津武清（主）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="59EWpM82GYRCt2MypR3q-98" value="火山云-北京（备2）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="927.5" y="496" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="59EWpM82GYRCt2MypR3q-101" value="升级：一主二级灾备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
