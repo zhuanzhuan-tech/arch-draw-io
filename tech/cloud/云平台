@@ -2613,15 +2613,15 @@
         <mxCell id="fglwkxQkpvuc-MBBx3aB-3" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;腾讯云-天津高新（主）&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="305" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fglwkxQkpvuc-MBBx3aB-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="fglwkxQkpvuc-MBBx3aB-27" target="fglwkxQkpvuc-MBBx3aB-29" edge="1">
+        <mxCell id="fglwkxQkpvuc-MBBx3aB-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425.5" y="240" as="sourcePoint" />
-            <mxPoint x="290" y="418.75" as="targetPoint" />
+            <mxPoint x="396.5" y="242" as="sourcePoint" />
+            <mxPoint x="264.5" y="420.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="396" y="240" />
-              <mxPoint x="396" y="280" />
-              <mxPoint x="310" y="280" />
-              <mxPoint x="310" y="419" />
+              <mxPoint x="396" y="242" />
+              <mxPoint x="396" y="282" />
+              <mxPoint x="310" y="282" />
+              <mxPoint x="310" y="421" />
             </Array>
           </mxGeometry>
         </mxCell>
