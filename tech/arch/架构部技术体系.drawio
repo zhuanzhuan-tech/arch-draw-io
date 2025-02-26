@@ -128,7 +128,7 @@
           <mxGeometry x="35" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-75" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;fontStyle=0;strokeWidth=2;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="340" height="140" as="geometry" />
+          <mxGeometry x="100" y="320" width="440" height="140" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-76" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;员工信息&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="75" y="390" width="80" height="30" as="geometry" />
@@ -137,31 +137,31 @@
           <mxGeometry x="136" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-78" value="&lt;b&gt;组织&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="239" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="288" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-79" value="&lt;b&gt;SSO登录&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-80" value="&lt;b&gt;权限&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="239" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="288" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-82" value="&lt;b&gt;口令&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-83" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="465" y="320" width="335" height="140" as="geometry" />
+          <mxGeometry x="560" y="320" width="235" height="140" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;企微周边&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="440" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="538" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-85" value="&lt;b&gt;wxmsg&lt;/b&gt;&lt;div&gt;&lt;b&gt;消息发送平台&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="501" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="596" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-87" value="&lt;b&gt;应用管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="501" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="596" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-88" value="&lt;b&gt;企微助手&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="604" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="699" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAhUer2seDNbvaJBFze2-90" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="820" y="320" width="139" height="140" as="geometry" />
