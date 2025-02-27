@@ -63,13 +63,13 @@
         <mxCell id="DUJHOCGt4It78uvVbUno-5" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="270" y="135" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DUJHOCGt4It78uvVbUno-6" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="DUJHOCGt4It78uvVbUno-6" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="490" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DUJHOCGt4It78uvVbUno-7" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="690" y="135" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DUJHOCGt4It78uvVbUno-8" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="DUJHOCGt4It78uvVbUno-8" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="860" y="135" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DUJHOCGt4It78uvVbUno-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="DUJHOCGt4It78uvVbUno-5" edge="1">
@@ -102,7 +102,7 @@
         <mxCell id="DUJHOCGt4It78uvVbUno-13" value="1.秒级监控&lt;div&gt;2.监控告警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="325" y="268" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DUJHOCGt4It78uvVbUno-3" value="止血定位&amp;amp;恢复" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="DUJHOCGt4It78uvVbUno-3" value="止血定位&amp;amp;恢复" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="110" y="404" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DUJHOCGt4It78uvVbUno-15" value="发现" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
