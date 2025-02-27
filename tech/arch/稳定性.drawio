@@ -284,6 +284,9 @@
             <mxPoint x="140" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="A5TAxavvxq82MUCnnoP0-35" value="金指标图：金指标告警服务的上下游金指标异常的服务总和" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="120" width="360" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
