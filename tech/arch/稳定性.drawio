@@ -419,6 +419,15 @@
             <mxPoint x="640" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ElL2ZKjdelLjAS7uIdR4-36" value="销毁profile节点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="465" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ElL2ZKjdelLjAS7uIdR4-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElL2ZKjdelLjAS7uIdR4-3" target="ElL2ZKjdelLjAS7uIdR4-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="139.5" as="sourcePoint" />
+            <mxPoint x="650" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
