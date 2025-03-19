@@ -105,6 +105,18 @@
         <mxCell id="qpfFihvUUbPKWQdW_QFY-33" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="740" y="260" width="160" height="740" as="geometry" />
         </mxCell>
+        <mxCell id="qpfFihvUUbPKWQdW_QFY-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;商户&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qpfFihvUUbPKWQdW_QFY-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;开发者应用&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="365" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qpfFihvUUbPKWQdW_QFY-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;网关&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qpfFihvUUbPKWQdW_QFY-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;用户中心&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;（转转/员工/采货侠）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
