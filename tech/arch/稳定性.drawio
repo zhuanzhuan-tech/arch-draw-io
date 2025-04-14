@@ -1,54 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="4">
-  <diagram name="发布平台" id="UDuXnFNX9obL7olbhBA1">
-    <mxGraphModel dx="1390" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-2" value="发布前" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="60" y="130" width="240" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-3" value="发布中" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="300" y="130" width="240" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-4" value="发布后" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="540" y="130" width="220" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-5" value="发布风险检测条件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="70" y="180" width="220" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="210" width="200" height="241" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-6" value="新增scf调用关系检测&lt;div&gt;（缺少调用关系-提示）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O_Zp-z9CiAgVU1FVPQMI-12">
-          <mxGeometry width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-7" value="apollo配置项检测&lt;div&gt;（比测试环境少配置项少-禁止发布）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O_Zp-z9CiAgVU1FVPQMI-12">
-          <mxGeometry y="40" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-8" value="docker内存配置项检测&lt;div&gt;（docker内存小于xmx-禁止发布）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O_Zp-z9CiAgVU1FVPQMI-12">
-          <mxGeometry y="90" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-10" value="jvm参数变更项检测&lt;div&gt;（jvm参数变更-提示）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O_Zp-z9CiAgVU1FVPQMI-12">
-          <mxGeometry y="141" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-11" value="发布节点数变更检测&lt;div&gt;（发布节点数减少50%以上-提示）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O_Zp-z9CiAgVU1FVPQMI-12">
-          <mxGeometry y="191" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_Zp-z9CiAgVU1FVPQMI-13" target="O_Zp-z9CiAgVU1FVPQMI-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-13" value="上线前检测发布风险" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="510" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-15" value="风险提示或阻断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="594.5" width="70" height="35.5" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-17" value="触发异常条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="554.5" width="80" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.1" pages="5">
   <diagram id="Wmb_0LY8wBpJUW_GFidt" name="1-5-10">
     <mxGraphModel dx="1390" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,6 +377,97 @@
             <mxPoint x="580" y="139.5" as="sourcePoint" />
             <mxPoint x="650" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="发布平台" id="UDuXnFNX9obL7olbhBA1">
+    <mxGraphModel dx="1390" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-2" value="发布前" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="60" y="130" width="240" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-3" value="发布中" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="300" y="130" width="240" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-4" value="发布后" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="540" y="130" width="220" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-5" value="发布风险检测条件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="220" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-12" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="80" y="210" width="200" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-6" value="新增scf调用关系检测&lt;div&gt;（缺少调用关系-提示）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="O_Zp-z9CiAgVU1FVPQMI-12" vertex="1">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-7" value="apollo配置项检测&lt;div&gt;（比测试环境少配置项少-禁止发布）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="O_Zp-z9CiAgVU1FVPQMI-12" vertex="1">
+          <mxGeometry y="40" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-8" value="docker内存配置项检测&lt;div&gt;（docker内存小于xmx-禁止发布）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="O_Zp-z9CiAgVU1FVPQMI-12" vertex="1">
+          <mxGeometry y="90" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-10" value="jvm参数变更项检测&lt;div&gt;（jvm参数变更-提示）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="O_Zp-z9CiAgVU1FVPQMI-12" vertex="1">
+          <mxGeometry y="141" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-11" value="发布节点数变更检测&lt;div&gt;（发布节点数减少50%以上-提示）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="O_Zp-z9CiAgVU1FVPQMI-12" vertex="1">
+          <mxGeometry y="191" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O_Zp-z9CiAgVU1FVPQMI-13" target="O_Zp-z9CiAgVU1FVPQMI-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-13" value="上线前检测发布风险" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="510" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-15" value="风险提示或阻断" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="594.5" width="70" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O_Zp-z9CiAgVU1FVPQMI-17" value="触发异常条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="554.5" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CDefoyqu6qgra9jgBugr" name="事件系统">
+    <mxGraphModel dx="1390" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-1" value="sic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-2" value="db平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-3" value="阿波罗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-4" value="服务治理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-5" value="发布系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-6" value="调度平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-7" value="日志查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-12" value="事件系统（时序下的人为操作）" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="360" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-13" value="系统" style="swimlane;startSize=20;html=1;" vertex="1" parent="-Mv3NGd0vfACjBgz1uA9-12">
+          <mxGeometry y="20" width="120" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-14" value="事件" style="swimlane;startSize=20;html=1;" vertex="1" parent="-Mv3NGd0vfACjBgz1uA9-12">
+          <mxGeometry x="120" y="20" width="120" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-15" value="细节" style="swimlane;startSize=20;html=1;" vertex="1" parent="-Mv3NGd0vfACjBgz1uA9-12">
+          <mxGeometry x="240" y="20" width="120" height="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
