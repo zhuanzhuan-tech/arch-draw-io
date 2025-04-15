@@ -542,7 +542,7 @@
             <mxPoint x="550" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VLpBx_4rIJmXOdw9eMwA-19" value="扩展" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="VLpBx_4rIJmXOdw9eMwA-19" value="扩展（业务系统）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="294" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VLpBx_4rIJmXOdw9eMwA-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="VLpBx_4rIJmXOdw9eMwA-1" target="VLpBx_4rIJmXOdw9eMwA-19">
