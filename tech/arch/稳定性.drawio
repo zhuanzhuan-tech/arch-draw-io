@@ -454,7 +454,7 @@
         <mxCell id="-Mv3NGd0vfACjBgz1uA9-6" value="调度平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="294" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Mv3NGd0vfACjBgz1uA9-7" value="行迹云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-Mv3NGd0vfACjBgz1uA9-7" value="变更管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VLpBx_4rIJmXOdw9eMwA-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
