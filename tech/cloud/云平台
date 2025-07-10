@@ -2842,13 +2842,13 @@
         <mxCell id="BML5RNxW92Nm5GZXn2ll-12" value="测试（稳定）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="489.99773993643754" y="234.99539708935276" as="geometry" />
         </mxCell>
-        <mxCell id="BML5RNxW92Nm5GZXn2ll-13" value="sandbox 自建k8s（1.30）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BML5RNxW92Nm5GZXn2ll-13" value="sandbox 自建k8s（1.30）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="580" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BML5RNxW92Nm5GZXn2ll-14" value="test 自建k8s（1.30）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BML5RNxW92Nm5GZXn2ll-14" value="test 自建k8s（1.30）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="580" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BML5RNxW92Nm5GZXn2ll-15" value="test 弹性tke（1.32）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BML5RNxW92Nm5GZXn2ll-15" value="test 弹性tke（1.32）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="580" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BML5RNxW92Nm5GZXn2ll-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -2892,7 +2892,7 @@
         <mxCell id="BML5RNxW92Nm5GZXn2ll-24" value="测试（弹性）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="499.99773993643754" y="614.9953970893528" as="geometry" />
         </mxCell>
-        <mxCell id="BML5RNxW92Nm5GZXn2ll-25" value="sandbox 弹性tke（1.32）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BML5RNxW92Nm5GZXn2ll-25" value="sandbox 弹性tke（1.32）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BML5RNxW92Nm5GZXn2ll-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BML5RNxW92Nm5GZXn2ll-18" target="BML5RNxW92Nm5GZXn2ll-25">
