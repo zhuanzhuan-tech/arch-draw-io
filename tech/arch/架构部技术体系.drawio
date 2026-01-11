@@ -368,25 +368,28 @@
           <mxGeometry height="30" width="80" x="-920" y="930" as="geometry" />
         </mxCell>
         <mxCell id="QmxaHrbEJ_tI_f3l0PS1-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;一体化&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="-775" y="850" as="geometry" />
+          <mxGeometry height="30" width="70" x="-710" y="850" as="geometry" />
         </mxCell>
         <mxCell id="QmxaHrbEJ_tI_f3l0PS1-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;变更巡检&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="-840" y="885" as="geometry" />
         </mxCell>
         <mxCell id="QmxaHrbEJ_tI_f3l0PS1-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;移动化值班&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="-730" y="890" as="geometry" />
+          <mxGeometry height="30" width="90" x="-720" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="QmxaHrbEJ_tI_f3l0PS1-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;架构工具平台&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="-710" y="850" as="geometry" />
+        <mxCell id="QmxaHrbEJ_tI_f3l0PS1-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;工具平台&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="-615" y="850" as="geometry" />
         </mxCell>
         <mxCell id="QmxaHrbEJ_tI_f3l0PS1-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AI基建&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-625" y="890" as="geometry" />
+          <mxGeometry height="30" width="60" x="-545" y="886" as="geometry" />
         </mxCell>
         <mxCell id="QmxaHrbEJ_tI_f3l0PS1-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Idea插件&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="-590" y="850" as="geometry" />
+          <mxGeometry height="30" width="80" x="-745" y="886" as="geometry" />
         </mxCell>
         <mxCell id="QmxaHrbEJ_tI_f3l0PS1-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;热部署&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="-545" y="890" as="geometry" />
+          <mxGeometry height="30" width="70" x="-640" y="886" as="geometry" />
+        </mxCell>
+        <mxCell id="QmxaHrbEJ_tI_f3l0PS1-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;接警系统&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="-605" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
