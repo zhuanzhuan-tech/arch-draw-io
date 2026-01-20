@@ -3396,7 +3396,7 @@
         <mxCell id="X9hU09Y9RcSQC0qpLZl8-33" connectable="0" parent="1" style="group;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="50" width="120.5" x="1050" y="1140" as="geometry" />
         </mxCell>
-        <mxCell id="X9hU09Y9RcSQC0qpLZl8-34" parent="X9hU09Y9RcSQC0qpLZl8-33" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" value="AI分析（&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;b&gt;推导结论&lt;/b&gt;&lt;/font&gt;）" vertex="1">
+        <mxCell id="X9hU09Y9RcSQC0qpLZl8-34" parent="X9hU09Y9RcSQC0qpLZl8-33" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;&lt;b&gt;AI分析&lt;/b&gt;&lt;/font&gt;（&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;b&gt;推导结论&lt;/b&gt;&lt;/font&gt;）" vertex="1">
           <mxGeometry height="50" width="120" x="0.5" as="geometry" />
         </mxCell>
         <mxCell id="X9hU09Y9RcSQC0qpLZl8-71" edge="1" parent="X9hU09Y9RcSQC0qpLZl8-33" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
@@ -3493,7 +3493,7 @@
             <mxPoint x="540" y="1165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9hU09Y9RcSQC0qpLZl8-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;显微镜（&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;知识经验平台化&lt;/font&gt;&lt;/b&gt;）&lt;/font&gt;" vertex="1">
+        <mxCell id="X9hU09Y9RcSQC0qpLZl8-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;显微镜（&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;知识经验&lt;/font&gt;&lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;平台化&lt;/font&gt;&lt;/b&gt;）&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="229" x="571" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="X9hU09Y9RcSQC0qpLZl8-75" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
@@ -3514,8 +3514,8 @@
         <mxCell id="X9hU09Y9RcSQC0qpLZl8-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;b&gt;信息分散&lt;/b&gt;&lt;/font&gt;（10+)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="137.75" x="732.25" y="926" as="geometry" />
         </mxCell>
-        <mxCell id="X9hU09Y9RcSQC0qpLZl8-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="有序智能(1)" vertex="1">
-          <mxGeometry height="30" width="72.25" x="737.75" y="980" as="geometry" />
+        <mxCell id="X9hU09Y9RcSQC0qpLZl8-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(103, 171, 159); font-size: 18px;&quot;&gt;有序智能(1)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="102.25" x="737.75" y="980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
