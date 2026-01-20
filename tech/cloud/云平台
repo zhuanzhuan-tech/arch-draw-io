@@ -3330,7 +3330,7 @@
         <mxCell id="xqZgL2kMcNPGCORyalNk-50" connectable="0" parent="1" style="group;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="50" width="120.5" x="1030" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="xqZgL2kMcNPGCORyalNk-51" parent="xqZgL2kMcNPGCORyalNk-50" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" value="代码+AI" vertex="1">
+        <mxCell id="xqZgL2kMcNPGCORyalNk-51" parent="xqZgL2kMcNPGCORyalNk-50" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" value="代码+大脑" vertex="1">
           <mxGeometry height="50" width="120" x="0.5" as="geometry" />
         </mxCell>
         <mxCell id="xqZgL2kMcNPGCORyalNk-53" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="信息分散(5分钟）" vertex="1">
@@ -3502,7 +3502,7 @@
             <mxPoint x="1220" y="1165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9hU09Y9RcSQC0qpLZl8-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 51, 51);&quot;&gt;&lt;b&gt;柯南根因处理器&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="X9hU09Y9RcSQC0qpLZl8-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px; color: rgb(181, 115, 157);&quot;&gt;&lt;b style=&quot;&quot;&gt;柯南根因处理器&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="80" x="310" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="X9hU09Y9RcSQC0qpLZl8-77" edge="1" parent="1" source="X9hU09Y9RcSQC0qpLZl8-61" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.458;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.396;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" target="X9hU09Y9RcSQC0qpLZl8-62" value="">
